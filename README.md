@@ -1,5 +1,5 @@
 
-<h1 align="center" style="color: #f00;">YOUNESS BARAH</h1>
+<h1 align="center">__YOUNESS BARAH__</h1>
 <h3 align="center">CPGE student (TSI)</h3>
 
 
