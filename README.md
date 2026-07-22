@@ -1,6 +1,7 @@
 
-<h1 align="center" color="red">YOUNESS BARAH</h1>
+<h1 align="center" style="color: #f00;">YOUNESS BARAH</h1>
 <h3 align="center">CPGE student (TSI)</h3>
+
 
 - I'm workin on a 2d game engine [TinyOrigin](https://github.com/TinyOrigin-engine/TinyOrigin)
 
@@ -10,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/youness barah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youness barah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/youness-barah-8467773b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youness barah" height="30" width="40" /></a>
 <a href="https://instagram.com/barahyouness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barahyouness" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pf4wbyp0so" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pf4wbyp0so" height="30" width="40" /></a>
 </p>
